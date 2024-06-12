@@ -1,0 +1,6 @@
+       <ul>
+          <li className="mb-2"><a href="#!" className="block p-2 rounded hover:bg-gray-700">Home</a></li>
+          <li className="mb-2"><a href="#!" className="block p-2 rounded hover:bg-gray-700">About</a></li>
+          <li className="mb-2"><a href="#!" className="block p-2 rounded hover:bg-gray-700">Services</a></li>
+          <li className="mb-2"><a href="#!" className="block p-2 rounded hover:bg-gray-700">Contact</a></li>
+        </ul>
